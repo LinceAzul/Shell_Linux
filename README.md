@@ -1,7 +1,7 @@
 # Shell con control de tareas para Linux
 
 En este proyecto universitario, he desarrollado un **intérprete de comandos** o **_Shell_** de aspecto similar al ya existente en Linux, que permite
-al usuario lanzar sus programas y ejecutar comandos de manera personalizada
+al usuario lanzar programas y ejecutar comandos de manera personalizada
 
 ## Uso
 
